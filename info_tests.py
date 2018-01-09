@@ -3,6 +3,10 @@ import mock
 
 class Foo(object):
 
+    """ New changes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111111111111111
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    """
+
     registry = mock.Mock()
     registry.auth_api = mock.Mock()
 
